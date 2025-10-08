@@ -1,0 +1,4 @@
+/* Welcome page specific overrides */
+/* Utility class for blend modes applied to decorative SVG groups */
+.blend-hard-light { mix-blend-mode: hard-light; }
+.blend-plus-darker { mix-blend-mode: plus-darker; }
